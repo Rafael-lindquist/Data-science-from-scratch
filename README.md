@@ -3,9 +3,9 @@
 - [x] Visualizando dados
 - [x] Álgebra linear
 - [x] Estatística
-- [ ] Probabilidade
-- [ ] Hipósetese e Inferência
-- [ ] Gradiente descendente 
+- [x] Probabilidade
+- [x] Hipósetese e Inferência
+- [x] Gradiente descendente 
 - [ ] Obtendo dados
 - [ ] Trabalhando com dados
 - [ ] Machine learning
