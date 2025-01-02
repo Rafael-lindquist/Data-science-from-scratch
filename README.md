@@ -6,11 +6,11 @@
 - [x] Probabilidade
 - [x] Hipósetese e Inferência
 - [x] Gradiente descendente 
-- [ ] Obtendo dados
-- [ ] Trabalhando com dados
-- [ ] Machine learning
-- [ ] k-Nearest Neighbors
-- [ ] Naive Bayers
+- [x] Obtendo dados
+- [x] Trabalhando com dados
+- [x] Machine learning
+- [x] k-Nearest Neighbors
+- [x] Naive Bayers
 - [ ] Regressão linear simples
 - [ ] Regressão múltipla
 - [ ] Regressão logística
